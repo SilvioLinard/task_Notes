@@ -9,12 +9,12 @@
   },
   "author": "Silvio Linard",
   "license": "ISC",
-  
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^5.1.0",
     "method-override": "^3.0.0",
-    "mongoose": "^8.16.4"
+    "mongoose": "^8.19.1",
+    "react": "^19.2.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
