@@ -1,6 +1,7 @@
 
 Para que o programa funcione corretamente é preciso instalar as dependências abaixo:
-![Dependeces](./img/dependecies.png)
+
+<h2>npm i ejs --save</h2>
 
 
 Aplicação desenvolvida para criação de notas, assim podendo criar uma rotina de atividades e lembretes para o seu Dia-a-Dia!
