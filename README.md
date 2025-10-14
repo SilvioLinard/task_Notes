@@ -23,12 +23,13 @@ Tela Inicial:
 <br/>
 <hr/>
 Tela Principal:
-<p>Entrando nessa tela é possivel criar diversas listas para melhorar e organizar as tarefas do seu cotidiano.</p>
-<p></p>
+<p>Entrando nessa tela é possivel criar diversas notas para melhorar e organizar as atividades do seu cotidiano.</p>
+
 
 ![Imagem Secundaria](./img/screenTwo.png)
 
 <br/>
 <hr/>
+<p>Ao criar uma nota é possivel acessá-la e criar diversas Tarefas, como também é possivel removelas.</p>
 
 ![Imagem terceira](./img/screenTree.png)
