@@ -1,4 +1,5 @@
-![Logo](./img/escrita.png)<h3>Task Notes</h3>
+![Logo]<img src="./img/escrita.png"  width="300"/>  <h3>Task Notes</h3>
+
 <hr/>
 
 Aplicação desenvolvida para criação de notas, assim podendo criar uma rotina de atividades e lembretes para o seu Dia-a-Dia.
